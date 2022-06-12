@@ -6,7 +6,7 @@ GitHub Pages:
 Caixas de Diálogo
 
 - [ ] prompt
-- [ ] alert
+- [x] alert
 - [ ] confirm
 
 Temporizadores
